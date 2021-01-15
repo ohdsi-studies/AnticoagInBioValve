@@ -14,9 +14,6 @@ Comparative effectiveness and safety of anticoagulation strategies in patients u
 - Publications:
 - Results explorer:
 
-Description
-=======
-
 A study to evaluate the comparative effectiveness and safety of anticoagulation strategies in patients undergoing open heart surgery using bioprosthetic valves.
 
 License
