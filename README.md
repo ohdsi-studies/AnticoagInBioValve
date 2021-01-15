@@ -1,19 +1,24 @@
-[Study title]
+Comparative effectiveness and safety of anticoagulation strategies in patients undergoing open heart surgery using bioprosthetic valves
 =============
 
-<img src="https://img.shields.io/badge/Study%20Status-Repo%20Created-lightgray.svg" alt="Study Status: Repo Created">
+<img src="https://img.shields.io/badge/Study%20Status-Started-blue.svg" alt="Study Status: Started">
 
-- Analytics use case(s): **-**
-- Study type: **-**
-- Tags: **-**
-- Study lead: **-**
-- Study lead forums tag: **[[Lead tag]](https://forums.ohdsi.org/u/[Lead tag])**
-- Study start date: **-**
-- Study end date: **-**
-- Protocol: **-**
-- Publications: **-**
-- Results explorer: **-**
+- Analytics use case(s): **Population-Level Estimation**
+- Study type: **Clinical Application**
+- Tags: **OHDSI**
+- Study lead: **Seng Chan You, Makoto Mori, Harlan Krumholz**
+- Study lead forums tag: **[SCYou](https://forums.ohdsi.org/u/SCYou)**
+- Study start date:
+- Study end date:
+- Protocol:
+- Publications:
+- Results explorer:
 
-[Description (single paragraph)]
+Description
+=======
 
-[You can add other text at this point]
+A study to evaluate the comparative effectiveness and safety of anticoagulation strategies in patients undergoing open heart surgery using bioprosthetic valves.
+
+License
+=======
+The whole study codes for AntiCoagInBioValve is licensed under Apache License 2.0
